@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rick and Morty</string>
+    <string name="error_recoverable_network">We could not connect to our server. Please check your internet connection %s</string>
+    <string name="error_recoverable_server">Looks like our servers are having problems. %s</string>
+    <string name="error_unrecoverable">Ooops… Something went wrong!</string>
+    <string name="error_retry_text">\n\nTap to retry!</string>
+    <string name="character_details_name">Name: %s</string>
+    <string name="character_details_status">Status: %s</string>
+    <string name="character_details_species">Species: %s</string>
+    <string name="character_details_gender">Gender: %s</string>
+    <string name="character_details_origin">Origin: %s</string>
+    <string name="character_details_location_details">Last Location</string>
+    <string name="character_details_location_details_name">Location name: %s</string>
+    <string name="character_details_location_details_type">Location type: %s</string>
+    <string name="character_details_location_details_dimension">Location dimension: %s</string>
+
+</resources>
